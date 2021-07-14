@@ -25,7 +25,7 @@ const options = {
 		},
 		servers: [
 			{
-				url: process.env.API_URL
+				url: '/api'
 			}
 		]
 	},
